@@ -1,3 +1,14 @@
+"""
+emojify.py
+
+A simple script that replaces certain words in a user-input sentence with their corresponding emojis.
+Supported categories: Food & Drink, Animals & Nature, Smileys & Feelings, Objects & Symbols, Actions & Activities.
+
+Usage:
+    Run the script and enter a sentence. Words matching keys in the emoji_dict will be replaced by emojis.
+"""
+
+
 emoji_dict = {
     # Food & Drink
     "pizza": "🍕",
