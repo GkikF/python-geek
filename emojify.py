@@ -6,6 +6,9 @@ Supported categories: Food & Drink, Animals & Nature, Smileys & Feelings, Object
 
 Usage:
     Run the script and enter a sentence. Words matching keys in the emoji_dict will be replaced by emojis.
+
+Date: 20250826
+Author: Gkik
 """
 
 
