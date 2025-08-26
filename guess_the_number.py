@@ -19,8 +19,8 @@ Features:
     - Looping with while
     - Try counter with +=
 
-Author: [GkikF]
-Date: [20250731]
+Author: Gkik
+Date: 20250731
 """
 
 import random
